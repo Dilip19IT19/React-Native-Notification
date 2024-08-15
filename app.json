@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6d72a469-8535-44ba-b242-85486aabc5ec"
+      }
+    },
+    "owner": "dilipchoudhary"
   }
 }
